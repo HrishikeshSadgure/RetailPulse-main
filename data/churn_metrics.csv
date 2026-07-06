@@ -1,0 +1,4 @@
+Metric,Value
+AUC-ROC,1.0
+Precision@Top20%,1.0
+Churn Threshold (days),142.0

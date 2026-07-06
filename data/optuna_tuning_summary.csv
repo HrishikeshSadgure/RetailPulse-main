@@ -1,0 +1,7 @@
+Metric,Value
+Baseline AUC-ROC,1.0
+Tuned AUC-ROC,0.9999575272356601
+Improvement,-4.247276433988478e-05
+Precision@Top20% (Tuned),1.0
+Best CV AUC (Optuna),0.9999992617746937
+Number of Trials,30.0

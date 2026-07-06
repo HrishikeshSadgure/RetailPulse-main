@@ -1,0 +1,9 @@
+column,drift_score_p_value,drift_detected
+AvgOrderValue,0.016619960265090265,True
+ChurnProbability_Tuned,0.017963433940031522,True
+UniqueProducts,0.03211500892077631,True
+Frequency,0.04014085979681396,True
+AvgCustomerFrequency,0.04014085979681396,True
+TotalQuantity,0.04431612133437178,True
+Monetary,0.07211260009214548,False
+Recency,0.2500395903077547,False

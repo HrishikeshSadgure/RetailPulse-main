@@ -1,0 +1,6 @@
+Metric,Value
+Drifted Columns Count,1
+Total Monitored Columns,8
+Drift Share,0.125
+Retrain Threshold,0.5
+Retraining Recommended,False

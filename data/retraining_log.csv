@@ -1,0 +1,2 @@
+timestamp,drift_share,retrain_triggered,new_model_auc,min_auc_threshold,passed_threshold,model_promoted
+2026-06-13T12:10:07.047709,0.125,False,,,,

@@ -1,0 +1,11 @@
+Metric,Value
+Average Daily Demand,29138.45
+Std Dev Daily Demand,17835.46
+Lead Time (days),7.0
+Service Level Z-score,1.65
+Safety Stock,77860.53
+Reorder Point,281829.67
+Assumed Current Stock,437076.73
+Total Forecasted Demand (30d),1427548.16
+Recommended Order Quantity,1068331.96
+Overstock Ceiling,563659.34
