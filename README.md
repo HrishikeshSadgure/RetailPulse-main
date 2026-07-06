@@ -495,18 +495,10 @@ test:     Adding tests
 chore:    Maintenance tasks
 ```
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👩‍💻 Author
 
-**Jainam Khetani**
-- 🎓 B.Tech Computer Science and Engineering
+**Hrishikesh Sadgure**
+- 🎓 B.Sc. Integrated Data Science
 - 🏢 Data Science & Analytics Intern @ Zidio Development
 - 📅 Internship Period: June 2026
 
@@ -515,15 +507,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 🙏 Acknowledgements
 
 - **[Zidio Development](https://zidio.in)** — For the structured 28-day internship project plan and mentorship
-- **[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)** — For the Online Retail II dataset (Chen et al., 2012)
-- **[Facebook Prophet](https://github.com/facebook/prophet)** — Taylor & Letham (2018)
-- **[PyTorch](https://pytorch.org)** — LSTM implementation
-- **[XGBoost](https://xgboost.readthedocs.io)** — Chen & Guestrin (2016)
-- **[SHAP](https://github.com/slundberg/shap)** — Lundberg & Lee (2017)
-- **[Optuna](https://optuna.org)** — Akiba et al. (2019)
-- **[Evidently AI](https://www.evidentlyai.com)** — Drift detection framework
-- **[Streamlit](https://streamlit.io)** — Interactive dashboard framework
-- **[Apache Airflow](https://airflow.apache.org)** — Workflow orchestration
 
 ---
 
